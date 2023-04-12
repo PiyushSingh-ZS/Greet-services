@@ -1,0 +1,5 @@
+mode: set
+greet/internal/service/hello/service.go:8.21,10.2 1 1
+greet/internal/service/hello/service.go:12.73,13.16 1 1
+greet/internal/service/hello/service.go:16.2,16.30 1 1
+greet/internal/service/hello/service.go:13.16,15.3 1 1
